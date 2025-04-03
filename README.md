@@ -58,7 +58,4 @@ It contains 4177 samples with the following features:
 - scikit-learn
 - statsmodels
 
-You can install dependencies via:
 
-```bash
-pip install -r requirements.txt
